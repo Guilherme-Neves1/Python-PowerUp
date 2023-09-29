@@ -2,10 +2,26 @@
 ---
 Total de 4 Aulas realizadas entre os dias 25/09/2023 a 28/09/2023.
 
-Aula01 - [aqui](https://github.com/Guilherme-Neves1/Python-PowerUp)
+Repositório Aula01 - Python PowerUp [aqui](https://github.com/Guilherme-Neves1/Python-PowerUp)
+  - Automação de tarefas
+  - Criação de bots
+  - Economizar horas de trabalho
+  - RPA e Web-Scraping
 
-Aula02 - [aqui](https://github.com/Guilherme-Neves1/Python-Insights)
+Repositório Aula02 - Python Insights [aqui](https://github.com/Guilherme-Neves1/Python-Insights)
+  - Análise e tratamento de dados
+  - Tabelas(DataFrames)
+  - Gráficos em Python
+  - Tirar insights valiosos
 
-Aula03 - [aqui]()
+Repositório Aula03 - Python IA [aqui]()
+  - Inteligência Artificial
+  - Projeto completo de previsão
+  - Ciência de dados
+  - Criação e análise de modelos
 
-Aula04 - [aqui]()
+Repositório Aula04 - Python DEV [aqui]()
+  - Criação de sites e sistemas
+  - Frameworks Python
+  - Desenvolvimento de um chat
+  - Frontend e Backend
