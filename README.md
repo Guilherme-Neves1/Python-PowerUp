@@ -14,13 +14,13 @@ Repositório Aula02 - Python Insights [aqui](https://github.com/Guilherme-Neves1
   - Gráficos em Python
   - Tirar insights valiosos
 
-Repositório Aula03 - Python IA [aqui]()
+Repositório Aula03 - Python IA [aqui](https://github.com/Guilherme-Neves1/Python-IA)
   - Inteligência Artificial
   - Projeto completo de previsão
   - Ciência de dados
   - Criação e análise de modelos
 
-Repositório Aula04 - Python DEV [aqui]()
+Repositório Aula04 - Python DEV [aqui](https://github.com/Guilherme-Neves1/Python-DEV)
   - Criação de sites e sistemas
   - Frameworks Python
   - Desenvolvimento de um chat
